@@ -2,7 +2,7 @@
 Developed an excel dashboard, that shows the performance of a coffee shop. This dashboard highlights the highest selling product and sales based on days, hours, weeks and months. 
 
 ## Data Source
-This data is taken from an online website call <a href="https://mavenanalytics.io/data-playground?page=3&pageSize=5"> mavenanalytics.io </a>. You can tab on this link to get the access of the website.
+This data is taken from an online website call <a href="https://mavenanalytics.io/data-playground?page=3&pageSize=5"> mavenanalytics.io </a>. You can tab on <a href= "https://mavenanalytics.io/data-playground/coffee-shop-sales?page=3&pageSize=5"> Download link </a>to Download the raw data from the source.
 
 ## Data Set
 This point gives you the raw excel dataset. You can click the link to download/view the dataset.
