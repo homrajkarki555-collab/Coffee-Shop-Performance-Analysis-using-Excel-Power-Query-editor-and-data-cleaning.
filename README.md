@@ -54,19 +54,25 @@ This point contains all the custom columns created using the above given data co
 
 ## Business Insights
 #### How do sales vary by day of the week and hour of the day?
--
+- Our daily sales is in upward movement, with an average daily sales of $3860.80. Whereas we see a high number of sales in the morning between 7am to 10am and as the days continues the sales decreases which show that people usually prefers drinking tea/coffee early in the morning.   
 #### Are there any peak times for sales activity?
--
+- Between 7am to 10am are the peak time as the highest number of sales in the days happens during this time of the day. 
 #### What is the total sales revenue for each month?
--
+- The total sales revenue of each month are :-
+<img width="251" height="145" alt="image" src="https://github.com/user-attachments/assets/455af369-b2db-46ba-8c7e-3ad2fd5ed38f" />
+
 #### How do sales vary across different store locations?
--
+- There are no huge difference in total sales and transaction count in between different sales location. Each store location gives as average total sales of $2,32,937.44.
+<img width="466" height="97" alt="image" src="https://github.com/user-attachments/assets/d2d4c976-b325-4526-9939-0e0b7b10a1a2" />
+
 #### what is the average price/order per person
--
+- Average price per order is $4.69 and Average order per person is 1.4.
+  
 #### Which products are the bestselling in terms of quantity and revenue?
--
+- The bestselling in terms of Quantity and revenue is Coffee. Total 89250 was sold, giving the revenue of $2,69,952.45 
+
 #### How do sales vary by product category and type?
--
+- 
 
 ## SS Dashboard/ Excel workbook with dynamic dashboard 
 - <a href="https://github.com/homrajkarki555-collab/Coffee-Shop-Performance-Analysis-using-Excel-Power-Query-editor-and-data-cleaning./blob/main/Screenshot%202026-09-06%20095521.png"> Dashboard Screenshot </a>
