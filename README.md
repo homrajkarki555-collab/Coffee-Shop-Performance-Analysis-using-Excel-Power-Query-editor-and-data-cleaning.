@@ -52,8 +52,21 @@ This point contains all the custom columns created using the above given data co
 - total sales - =sum([Total_bill])
 - Average Bill - =SUM(Transactions[Total_bill])/COUNT(Transactions[transaction_id])
 
-## Strategic Business Insights
-
+## Business Insights
+#### How do sales vary by day of the week and hour of the day?
+-
+#### Are there any peak times for sales activity?
+-
+#### What is the total sales revenue for each month?
+-
+#### How do sales vary across different store locations?
+-
+#### what is the average price/order per person
+-
+#### Which products are the bestselling in terms of quantity and revenue?
+-
+#### How do sales vary by product category and type?
+-
 
 ## SS Dashboard/ Excel workbook with dynamic dashboard 
 - <a href="https://github.com/homrajkarki555-collab/Coffee-Shop-Performance-Analysis-using-Excel-Power-Query-editor-and-data-cleaning./blob/main/Screenshot%202026-09-06%20095521.png"> Dashboard Screenshot </a>
