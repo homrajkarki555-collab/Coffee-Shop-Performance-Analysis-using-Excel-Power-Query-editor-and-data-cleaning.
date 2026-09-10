@@ -69,21 +69,25 @@ This point contains all the custom columns created using the above given data co
 - Average price per order is $4.69 and Average order per person is 1.4.
   
 #### Which products are the bestselling in terms of quantity and revenue?
-- The bestselling in terms of Quantity and revenue is Coffee. Total 89250 was sold, giving the revenue of $2,69,952.45 
+- The bestselling in terms of Quantity and revenue is Coffee. Total 89250 was sold which along contributes 39% of total quantity sold, giving the revenue of $2,69,952.45 
 
 #### How do sales vary by product category and type?
-- 
+- Coffee & Tea collectively generate $466,358.40, representing 66.7% of total business revenue and 74.1% of unit volume. In the Coffee category, Barista Espresso ($91,406.20) and Gourmet brewed coffee ($70,034.60) contribute roughly 60% of all coffee sales. In the Tea category, Brewed Chai tea dominates both volume (26,250 units) and revenue ($77,081.95), outperforming the other three tea varieties combined.
+
+<img width="550" height="961" alt="image" src="https://github.com/user-attachments/assets/657f6488-c96c-4bf1-8e89-cbbc522d419e" />
+
 
 ## SS Dashboard/ Excel workbook with dynamic dashboard 
 - <a href="https://github.com/homrajkarki555-collab/Coffee-Shop-Performance-Analysis-using-Excel-Power-Query-editor-and-data-cleaning./blob/main/Screenshot%202026-09-06%20095521.png"> Dashboard Screenshot </a>
 - <a href="Coffee Shop Excel Table and Dasboard.xlsx"> Excel workbook with dynamic dashboard  </a>
 
 ## Decision
-
-
+- Currently, our peak business occurs in the morning, leaving substantial untapped potential in the afternoon. We need an afternoon-specific campaign to drive traffic, such as a 1:00 PM–4:00 PM 'Happy Hour' with special pricing on iced coffees and teas. This approach will attract the post-lunch crowd and lift sales during our slowest window of the day.
+- The average transaction is just $4.69 — a strong sign most visits are single-item (one coffee, one tea) with little add-on selling. Bakery (scones, pastries, biscotti) makes up only about 12% of revenue even though foot traffic is huge — it's riding along on drink sales rather than being actively sold. A simple combo prompt such as ("add a scone for $X") or a coffee+pastry bundle priced slightly below buying separately could meaningfully raise the average ticket without needing a single new customer through the door.
 
 ## Business Impact
-
+- 
+- Implementing this methods properly we can expect the revenue growth of 20%. 
 
 
 ## Author and Contact
