@@ -57,7 +57,7 @@ This point contains all the custom columns created using the above given data co
 
 ## SS Dashboard/ Excel workbook with dynamic dashboard 
 - <a href="https://github.com/homrajkarki555-collab/Coffee-Shop-Performance-Analysis-using-Excel-Power-Query-editor-and-data-cleaning./blob/main/Screenshot%202026-09-06%20095521.png"> Dashboard Screenshot </a>
-- <a href="https://github.com/homrajkarki555-collab/Coffee-Shop-Performance-Analysis-using-Excel-Power-Query-editor-and-data-cleaning./blob/main/Book1.xlsx"> Excel workbook with dynamic dashboard  </a>
+- <a href="Coffee Shop Excel Table and Dasboard.xlsx"> Excel workbook with dynamic dashboard  </a>
 
 ## Decision
 
