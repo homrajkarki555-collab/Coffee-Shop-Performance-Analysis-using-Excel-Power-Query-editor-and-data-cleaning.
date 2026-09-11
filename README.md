@@ -82,12 +82,12 @@ This point contains all the custom columns created using the above given data co
 - <a href="Coffee Shop Excel Table and Dasboard.xlsx"> Excel workbook with dynamic dashboard  </a>
 
 ## Decision
-- Currently, our peak business occurs in the morning, leaving substantial untapped potential in the afternoon. We need an afternoon-specific campaign to drive traffic, such as a 1:00 PM–4:00 PM 'Happy Hour' with special pricing on iced coffees and teas. This approach will attract the post-lunch crowd and lift sales during our slowest window of the day.
+- Currently, our peak business occurs in the morning, leaving substantial untapped potential in the afternoon. We need an afternoon-specific campaign to drive traffic. For example, a 1:00 PM–4:00 PM 'Happy Hour' with special pricing on iced coffees and teas. This approach will attract the post-lunch crowd and lift sales during our slowest window of the day.
 - The average transaction is just $4.69 — a strong sign most visits are single-item (one coffee, one tea) with little add-on selling. Bakery (scones, pastries, biscotti) makes up only about 12% of revenue even though foot traffic is huge — it's riding along on drink sales rather than being actively sold. A simple combo prompt such as ("add a scone for $X") or a coffee+pastry bundle priced slightly below buying separately could meaningfully raise the average ticket without needing a single new customer through the door.
 
 ## Business Impact
 - 
-- Implementing this methods properly we can expect the revenue growth of 20%. 
+- Currently the average transaction is per person is just $4.69. If we adopt the above method of combo prompts we can expect an  revenue increase by up to  10%. We have an transaction count of 149116 even if 10% of this people purchase the combo pack that we can  the average order per person will be £7. Our total revenue will grow from $698812.33 to $768245.63 that is an increase of $69433.30. That makes a jump of 10% in our revenue 
 
 
 ## Author and Contact
