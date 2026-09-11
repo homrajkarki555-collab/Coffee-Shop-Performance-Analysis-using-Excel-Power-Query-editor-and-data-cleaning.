@@ -86,7 +86,6 @@ This point contains all the custom columns created using the above given data co
 - The average transaction is just $4.69 — a strong sign most visits are single-item (one coffee, one tea) with little add-on selling. Bakery (scones, pastries, biscotti) makes up only about 12% of revenue even though foot traffic is huge — it's riding along on drink sales rather than being actively sold. A simple combo prompt such as ("add a scone for $X") or a coffee+pastry bundle priced slightly below buying separately could meaningfully raise the average ticket without needing a single new customer through the door.
 
 ## Business Impact
-- 
 - Currently the average transaction is per person is just $4.69. If we adopt the above method of combo prompts we can expect an  revenue increase by up to  10%. We have an transaction count of 149116 even if 10% of this people purchase the combo pack that we can  the average order per person will be £7. Our total revenue will grow from $698812.33 to $768245.63 that is an increase of $69433.30. That makes a jump of 10% in our revenue 
 
 
